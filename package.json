@@ -2,6 +2,7 @@
   "name": "@stevederico/lucide-react",
   "description": "A Lucide icon library package for React applications.",
   "version": "0.513.0",
+  "private": false,
   "publishConfig": {
     "registry": "https://npm.pkg.github.com/"
   },
